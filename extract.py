@@ -1,7 +1,5 @@
 """
 @author:qh
-@datetime:2019-3-15
-@mood:<(*￣▽￣*)/
 """
 
 import os
